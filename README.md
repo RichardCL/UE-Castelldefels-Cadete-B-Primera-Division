@@ -1,6 +1,6 @@
-# UE Castelldefels B · Cadete S15 · Análisis de temporada
+# UE Castelldefels Cadete B Primera División: Rendimiento de once y Plan para Ganar la Liga
 
-Web estática con el análisis del equipo (Primera Divisió, Grupo 13, 2026-27): panel de datos, goleadores, propuesta de once según rendimiento, plan de partido y estudio del rival.
+Web estática con el análisis del equipo (Primera Divisió, Grupo 13, 2026-27): panel de datos, goleadores, once propuesto con alternativas por puesto, plan de partido y estudio del rival.
 
 - `index.html`: la página (autocontenida, sin dependencias externas).
 - `Informe_UE_Castelldefels_B_Cadete.pdf` e `Informe_Rival_Igualada_B_Cadete.pdf`: informes descargables.
